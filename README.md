@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fiseha
-- 👀 I’m interested in PHP, CakePHP, Node and several other programming languages
-- 🌱 I’m currently learning Electron
+- 👀 I’m interested in Tech, Coding, Python, PHP, Ruby on Rails, PostgreSQL, SQL Server, T-SQL ...
+- 🌱 Learning all the time ...
 - 📫 How to reach me me[at]fiseha.net is my primary email.
 
 <!---
